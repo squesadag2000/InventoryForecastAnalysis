@@ -1,4 +1,4 @@
-#  Agente de Pronóstico y Reabastecimiento — NorthPeak Supply Co. (Simulación)
+#  Agente de Pronóstico y Reabastecimiento — XTR Supply Co.
 
 Proyecto de portafolio que simula un pipeline real de **Supply Chain Analytics**:
 predicción de demanda + agente de IA que traduce los resultados en decisiones
